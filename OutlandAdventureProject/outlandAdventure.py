@@ -10,6 +10,7 @@ config = {
         'raise_on_warnings': True
 }
 
+
 db = None  # Initialize db variable outside the try block
 
 try:
